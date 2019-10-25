@@ -1,2 +1,3 @@
 # Hello-World
-my repository 
+
+New at GITHUB, repository still learning. I will appreciate any help as am still learning.
